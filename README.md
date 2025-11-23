@@ -82,11 +82,3 @@ Entrenador: Ash
 
 Desarrollado por SamuelM08 para la materia Lógica de Programación y Laboratorio.
 
-📦 .gitignore recomendado (no subas archivos de compilación)
-
-Guarda esto como `.gitignore` en la raíz:
-
-*.class
-bin/
-out/
-
